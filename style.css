@@ -1,4 +1,9 @@
 .fancy {
-  color: plum;
+  color: purple;
+  padding: 70px;
+}
+
+.info {
+  color: teal;
   padding: 70px;
 }
